@@ -1,0 +1,2 @@
+latihan6_kambing_static_dan_konstanta.Mamalia
+latihan6_kambing_static_dan_konstanta.KambingStatic
